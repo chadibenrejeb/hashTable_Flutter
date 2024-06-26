@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'hash_table_service.dart';
 import 'control_panel.dart';
-import 'table_canvas.dart';
+import 'table_canvas.dart';  // Ensure this import is present
 
 void main() {
   runApp(MyApp());
