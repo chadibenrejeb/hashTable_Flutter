@@ -1,5 +1,7 @@
 # hashtableapp
 
+This project is an hashtable app built using flutter 
+
 A new Flutter project.
 
 ## Getting Started
